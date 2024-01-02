@@ -35,6 +35,7 @@ Analista de Dados com experiência em coleta, análise e interpretação de dado
 
 ## Minhas Redes Sociais
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>]
-(https://www.linkedin.com/in/tales-alexandre-7b8593211/)
+(https://www.linkedin.com/in/tales-alexandre-7b8593211)
+
 
 ## Repositórios Principais
