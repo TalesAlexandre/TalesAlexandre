@@ -28,9 +28,9 @@ Analista de Dados com experiência em coleta, análise e interpretação de dado
 - 🚀 Engenharia de Dados e Cloud Computer são os próximos passos
 
 
-![TalesAlexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalesAlexandre&show_icons=true&theme=merko)
+![TalesAlexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalesAlexandre&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalesAlexandre&hide_progress=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalesAlexandre&hide_progress=true&theme=dark)
 
 
 ## Minhas Redes Sociais
